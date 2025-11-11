@@ -87,7 +87,7 @@ python universal_transcoder.py ^
 **Hanoguzzz**  
 Data Analyst • Automation Enthusiast • Creator of Smart Tools That Save Time  
 📺 [YouTube](https://www.youtube.com/@Hanoguzzz)  
-✍️ [Medium](https://medium.com/@Hanoguzzz)
+✍️ [Medium](https://medium.com/@hanoguztr)
 
 ---
 
@@ -100,7 +100,7 @@ MIT License © 2025 Hanoguzzz
 ## 🔗 Related Medium Article
 
 Read the story behind this project:  
-👉 [Small Video Problems, Big Difference Through Code](https://medium.com/@Hanoguzzz)
+👉 [Small Video Problems, Big Difference Through Code](https://medium.com/@hanoguztr)
 
 ---
 
