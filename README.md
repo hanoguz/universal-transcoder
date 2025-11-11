@@ -100,7 +100,7 @@ MIT License © 2025 Hanoguzzz
 ## 🔗 Related Medium Article
 
 Read the story behind this project:  
-👉 [Small Video Problems, Big Difference Through Code](https://medium.com/@hanoguztr)
+👉 [Small Video Problems, Big Difference Through Code](https://medium.com/@hanoguztr/small-video-problems-big-difference-through-code-c94c26bd75d5)
 
 ---
 
